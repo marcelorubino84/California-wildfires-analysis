@@ -71,7 +71,7 @@ I needed to think some questions to answer in order to make an analysis about th
 
 <img src="https://user-images.githubusercontent.com/99658869/216359306-ed8cce5c-8eef-49e5-b8f2-d5de028d8ce2.png" width="900" height="650">
 
-<img src="https://user-images.githubusercontent.com/99658869/216360475-beafcfed-08f0-4c16-a665-542fb3311755.png" width="450" height="350"><img src="https://user-images.githubusercontent.com/99658869/216360729-299de3b8-d94d-4526-90fd-ecb105e60ed7.png" width="450" height="350">
+<img src="https://user-images.githubusercontent.com/99658869/216360475-beafcfed-08f0-4c16-a665-542fb3311755.png" width="400" height="350"><img src="https://user-images.githubusercontent.com/99658869/216360729-299de3b8-d94d-4526-90fd-ecb105e60ed7.png" width="400" height="350">
 
 A more complete graph visualization can be seen in:
 
